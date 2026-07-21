@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+.env
+data/artifacts/models/*.joblib
+data/artifacts/models/*.json
+data/artifacts/vector_store/*.index
+data/artifacts/vector_store/*.json
+data/artifacts/vector_store/*.joblib
+data/artifacts/reports/*.json
+frontend/.streamlit/

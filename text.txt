@@ -1,0 +1,19 @@
+[Role] Act as an Elite Tech Lead and Interview Architect at a top-tier remote tech company.
+[Objective] I have a brutal 14-day sprint to become fully interview-ready for a high-paying Backend/Full-Stack internship. I need a strategic, thematic execution plan. DO NOT give me an hour-by-hour or micromanaged daily schedule. I need high-level milestones based on project execution.
+[The 14-Day Cognitive Load] I must seamlessly merge Advanced New Learning with Foundational Revision.
+
+* The Revision Load (Phases 1-5): Java 25 (Streams, Lambdas, Optionals, Generics, Collections), Core Spring (IoC, DI), Hibernate/JPA, Database Design, SQL, Multi-threading, LLD/HLD, Git/GitHub, and standard Monolith features (CRUD, Pagination, Validations, Exception Handling).
+* The Advanced Learning Load (Courses 1 & 2): JWT, Docker, Microservices Architecture, Service Discovery (Eureka), API Gateway, Spring AI (Gemini), Apache Kafka, Keycloak (OAuth2), and React Integration.
+[My Execution Vehicle] I am building a "Job Application Tracker" SaaS. I will use this project to actively test my revision topics while integrating the advanced architecture.
+[Execution Protocol] Give me a high-level strategic playbook broken down into these exactly 3 sections:
+1. The "Active Recall" Architecture Mapping: Map my revision topics (Phases 1-5) directly to features in my Job Tracker.
+
+* Example: How do I specifically use Java 25 Streams & Optionals when filtering job applications? How do I use Multi-threading when processing interview dates? Tell me exactly where to code these foundational concepts in my project so I prove to myself I know them.
+2. The Thematic Sprint Blocks (No hourly schedules): Break my 14 days into 3 massive architectural phases. For each phase, tell me what advanced concepts I am learning from the courses, and what foundational concepts I am revising by writing the code.
+
+* Block 1 (Days 1-5): The Secured Monolith Core. (Merging Phase 1-3 revision with JWT/Swagger/Docker).
+* Block 2 (Days 6-10): The Distributed Shift. (Merging Phase 4 LLD/HLD revision with Microservices, Eureka, Gateway, and AI).
+* Block 3 (Days 11-14): Enterprise Polish & The Frontend. (Merging Phase 5 revision with Kafka, Keycloak, React, and Deployment).
+3. The Interview Combat Sheet: Based on this exact combination of foundational Java and advanced Microservices, give me the 5 hardest interview questions a Senior Engineer will ask me to test if I actually understand how my foundation interacts with my architecture (e.g., "How does your Spring Boot exception handling work across your Eureka Microservices?"). Give me the questions, not the answers.
+
+
